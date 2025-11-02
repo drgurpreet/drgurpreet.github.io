@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Gurpreet Singh
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Singh
+last_name: Gurpreet
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🪯
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Associate Professor (Community Medicine) & Epidemiologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Armed Forces Medical College, Pune
+    url: https://afmc.nic.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:drgurpreet.md.afmc@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/@Drgurpreet_heal
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/drgurpreet
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/gurpreet-singh-a5881065/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=SbEL6ogAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0000-0002-1375-3189
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Medicine
+  - Public Health
+  - Epidemiology
+  - Data Science
+  - Spatial and Spatiotemporal Epidemiology
+  - Infectious Disease Modelling
+  - Open source, reproducible, and scalable research
+  - Health Systems and Health Policies
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Bachelor of Medicine and Bachelor of Surgery (MBBS) 
+    institution: Armed Forces Medical College, Pune 
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2002-05-01
+    date_end: 2008-02-06
+
+  - area: Doctorate of Medicine (MD Community Medicine) 
+    institution: Armed Forces Medical College, Pune 
+    icon: ""
+    date_start: 2012-04-27
+    date_end: 2015-04-19
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Organizational Support to Spinal Cord Injury Patients_. Supervised by Maj Gen (Prof). Rajat Prakash. Published a paper in Journal of Marine Medical Society, with Director General Armed Forces Medical Services (DGAFMS) Gold Medal and Maharashtra University of Health Sciences (MHS) Certificate of Appreciation.
+
+  - area: Diplomat National Board (DNB Preventive and Social Medicine) 
+    institution: Armed Forces Medical College, Pune 
+    icon: ""
+    summary: |
+      Recieved President's NBE Gold Medal for standing first in India.
+    
+  - area: PhD Epidemiology (Data Science in Healthcare)
+    institution: Sree Chitra Tirunal Instite for Medical Sciences and Technology, Trivandrum
+    icon: ""
+    date_start: 2019-01-14
+    date_end: 2023-07-26
+    summary: |
+      Thesis on _Data Science Approach for Spatiotemporal Modeling and Forecasting of Dengue in Punjab, India_. Supervised by Prof. Biju Soman. Published 4 papers in Spatial and Spatiotemporal Epidemiology, Ecological Informatics, ICT4D UiO Norway, and Int J Community Med Public Health, with best PhD paper award at National Conference of the Indian Association of Preventive and Social Medicine at PGIMER, Chandigarh (IAPSMCON 2021)IAPSMCON 2021 (PGIMER, Chandigarh) and Gavin Mooney Prize at National Conference of the Indian Health Economics and Policy Association, Flame University, Pune (IHEPA 2024).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      url: 'https://dspace.sctimst.ac.in/items/64a7f0fd-192b-4c2d-911c-bd0124f9485e'
+    
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Associate Professor
+    company_name: Armed Forces Medical College, Pune
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-06-03
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    
+  - position: Senior Medical Officer
+    company_name: Armed Forces Medical Services, India
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-01-14
+    date_end: 2024-06-02
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked as a Physician, Public Health Specialist and Epidemiologist at Largest Air Base in Asia. 
+ 
+  - position: Officer Commanding
+    company_name: Station Health Organization, Jalandhar Cantt
+    icon: ''
+    date_start: 2016-07-07
+    date_end: 2019-01-13 
+ 
+  - position: Assistant Professor
+    company_name: Armed Forces Medical College, Pune
+    icon: ''
+    date_start: 2015-04-20
+    date_end: 2016-07-06
+    summary: |
+      Worked as first Clinical Tutor in the Department of Community Medicine.
+     
+  - position: Medical Officer
+    company_name: Armed Forces Medical Services, India
+    icon: ''
+    date_start: 2008-02-06
+    date_end: 2015-04-19
+    summary: |
+      Worked as Medical Officer in Counterinsurgency Areas in Jammu and Kashmir, and the North Eastern states of India. Worked as Regimental Medical Officer with GUARDS and JAT regiments.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -138,7 +164,11 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Hindi
+    percent: 100
+  - name: Punjabi
+    percent: 100
+  - name: Marathi
     percent: 50
 
 # Awards.
