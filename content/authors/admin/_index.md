@@ -129,7 +129,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills
+skills:
   - name: Healthcare Professional
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -153,7 +153,7 @@ skills
       - name: Health Technology Assessments
         description: ''
         # percent: 70
-        # icon: book-open :
+        # icon: book-open 
   - name: Programming Skills
     items:
       - name: R programming (Positron/ RStudio)
