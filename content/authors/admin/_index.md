@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🪯
+  icon: 🩺
 
 # Is this the primary user of the site?
 superuser: true
@@ -130,36 +130,48 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programmer
     items:
-      - name: Python & PyTorch
+      - name: R programming (Positron/ RStudio)
         description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+        # percent: 95
+        # icon: code-bracket
+      - name: Health Data Science
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        # percent: 100
+        # icon: chart-bar
+      - name: Infectious Disease Modelling
         description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+        # percent: 85
+        # icon: cloud
+     - name: Spatial and Spatiotemporal Analytics
+       description: ''
+       # percent: 85
+       # icon: cloud
+  - name: Healthcare Professional
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Preventive Medicine
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        # percent: 100
+        # icon: person-simple-walk
+      - name: Disease Surveillance and Outbreak Investigation
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        # percent: 100
+        # icon: cpu-chip
+      - name: Study Designs
         description: ''
-        percent: 70
-        icon: book-open
+        # percent: 70
+        # icon: book-open
+      - name: Health System Analysis
+        description: ''
+        # percent: 70
+        # icon: book-open
+      - name: Health Technology Assessments
+        description: ''
+        # percent: 70
+        # icon: book-open
 
 languages:
   - name: English
@@ -176,27 +188,54 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: DGAFMS Gold Medal 
+    date: '2015-04-02'
+    awarder: Director General Armed Forces Medical Services, India
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for scoring highest marks in grading exam for MD(Community Medicine)
+  - title: President Gold Medal 
+    date: '2016-06-02'
+    awarder: National Board of Examinations, India
+    icon: hero/academic-cap
+    summary: |
+      Awarded for scoring highest marks in India for DNB (Preventive and Social Medicine) 
+  - title: GOC Appreciation Certificate and Medallion
+    date: '2017-08-02'
+    awarder: General Officer Commanding, 11 Corps Headquaters, Indian Army
+    icon: hero/trophy
+    summary: |
+      Awarded as recognition of Public Health services provided to the Military Station. 
+  - title: Best PhD Paper Award
+    date: '2021-01-02'
+    awarder: Indian Association of Preventive and Social Medicine
+    icon: hero/academic-cap
+    summary: |
+      Awarded during the National Conference (IAPSMCON) held at PGIMER, Chandigarh
+  - title: Excellent Grading and Best Speaker Award 
+    date: '2022-08-02'
+    awarder: Medical Training Centre, Indian Air Force
+    icon: hero/trophy
+    summary: |
+      Awareded during Senior Medical Officer Administrative Course held in 2022
+  - title: AOC Appreciation Certificate
+    date: '2023-10-08'
+    awarder: Air Officer Commanding, Air Force Station, Hindan
+    icon: hero/trophy
+    summary: |
+      Awarded as recognition of Public Health and Epidemiological services provided at Largest Air Base in Asia
+  - title: Runner up Public Health Trophy
+    date: '2024-01-08'
+    awarder: Director General Medical Services, Indian Air Force
+    icon: hero/trophy
+    summary: |
+      Awarded as recognition of best practices in Public Health in Indian Air Force 
+  - title: Gavin Mooney Prize
+    date: '2024-01-08'
+    awarder: Indian Health Economics and Policy Association (IHEPA)
+    icon: hero/currency-dollar
+    summary: |
+      Awarded as best PhD paper presented during National Conference of IHEPA 2024
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dr Gurpreet Singh is a Physician, Epidemiologist and Health Data Scientist serving as Associate Professor of Community Medicine at the Armed Forces Medical College, India. His work integrates clinical experience with expertise in spatial epidemiology, disease modelling, and public health data science. He beieves that technology should be harnessed for its ethical, equitable and efficient use in healthcare. In the Indian Armed Forces, he has led public health operations, outbreak responses, and health system strengthening initiatives. His research focuses on converting routine health data into actionable insights for surveillance and policy. He actively promotes open-source analytics and capacity building by training researchers and professionals in data-driven public health. 
