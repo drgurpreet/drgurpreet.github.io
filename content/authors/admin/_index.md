@@ -130,7 +130,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programmer
+  - name: Programming Skills
     items:
       - name: R programming (Positron/ RStudio)
         description: ''
