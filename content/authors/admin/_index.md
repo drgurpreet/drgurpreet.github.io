@@ -103,9 +103,9 @@ work:
     date_start: 2022-01-14
     date_end: 2024-06-02
     summary: |
-      Worked as a Physician, Public Health Specialist and Epidemiologist at Largest Air Base in Asia. 
+      Worked as a Physician, Public Health Specialist and Epidemiologist at Largest Air Base in Asia
  
-  - position: Officer Commanding
+  - position: Commanding Officer
     company_name: Station Health Organization, Jalandhar Cantt
     icon: ''
     date_start: 2016-07-07
@@ -117,7 +117,7 @@ work:
     date_start: 2015-04-20
     date_end: 2016-07-06
     summary: |
-      Worked as first Clinical Tutor in the Department of Community Medicine.
+      Worked as first Clinical Tutor in the Department of Community Medicine at AFMC, Pune
      
   - position: Medical Officer
     company_name: Armed Forces Medical Services, India
