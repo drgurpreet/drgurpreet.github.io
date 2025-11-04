@@ -134,20 +134,12 @@ skills:
     items:
       - name: R programming (Positron/ RStudio)
         description: ''
-        # percent: 95
-        # icon: code-bracket
       - name: Health Data Science
         description: ''
-        # percent: 100
-        # icon: chart-bar
       - name: Infectious Disease Modelling
         description: ''
-        # percent: 85
-        # icon: cloud
-     - name: Spatial and Spatiotemporal Analytics
-       description: ''
-       # percent: 85
-       # icon: cloud
+      - name: Spatial and Spatiotemporal Analytics
+        description: ''
   - name: Healthcare Professional
     color: '#eeac02'
     color_border: '#f0bf23'
