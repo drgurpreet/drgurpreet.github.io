@@ -197,7 +197,7 @@ awards:
     awarder: General Officer Commanding, 11 Corps Headquaters, Indian Army
     icon: hero/trophy
     summary: |
-      Awarded as recognition of Public Health services provided to the Military Station. 
+      Awarded as recognition of Public Health services provided in Jalandhar Cantonment 
   - title: Best PhD Paper Award
     date: '2021-01-02'
     awarder: Indian Association of Preventive and Social Medicine
@@ -215,7 +215,7 @@ awards:
     awarder: Air Officer Commanding, Air Force Station, Hindan
     icon: hero/trophy
     summary: |
-      Awarded as recognition of Public Health and Epidemiological services provided at Largest Air Base in Asia
+      Awarded as recognition of Public Health and Epidemiological services provided at the Largest Air Base in Asia
   - title: Runner up Public Health Trophy
     date: '2024-01-08'
     awarder: Director General Medical Services, Indian Air Force
