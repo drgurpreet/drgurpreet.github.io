@@ -1,4 +1,5 @@
 ---
+
 title: "Development and Use of a Reproducible Framework for Spatiotemporal Climatic Risk Assessment and its Association with Decadal Trend of Dengue in India"
 
 # Authors
@@ -72,6 +73,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 # Section Snippets
