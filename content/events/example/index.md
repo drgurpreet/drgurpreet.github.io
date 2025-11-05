@@ -39,8 +39,7 @@ links: <!--
     url: https://github.com -->
   - type: slides
     url: https://totworkshop.info
-  - type: Agenda
-    url: https://totworkshop.info
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
