@@ -1,5 +1,5 @@
 ---
-title: "Recent & Upcoming Workshops"
+title: "Recent & Upcoming Talks"
 cms_exclude: true
 #url: talk
 
