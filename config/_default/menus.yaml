@@ -10,7 +10,11 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
+<<<<<<< HEAD
   - name: Workshops
+=======
+  - name: Talks
+>>>>>>> parent of 693b114 (Update menus.yaml)
     url: /#talks
     weight: 12
   - name: News
