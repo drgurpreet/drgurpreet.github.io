@@ -23,8 +23,8 @@ abstract: Routine health data is rich in information but underutilised for resea
 summary: The study was carried out to understand spatiotemporal patterns of dengue and its association with risk factors using routine data from health and allied sectors using Data Science open-source methods.
 
 tags:
-- Source Themes
-featured: false
+- 
+featured: true
 
 #hugoblox:
  # ids:
@@ -70,14 +70,33 @@ projects: [data-visualization]
 slides: ""
 ---
 
+> [**Section snippets**]
 
-Introduction
-“Systems that comprise data collected at regular intervals at public, private, and community-level health facilities and institutions and health programs” are Routine Health Information Systems (RHIS).(MEASURE Evaluation, 2022) RHIS systematically collects data, often for administrative use within health departments. Despite being rich in information, RHIS is underutilised for research in low- and middle-income countries, especially in the Asian subcontinent.(Hung et al., 2020).
-The use of interdisciplinary approaches by linking data from non-health sectors and GIS is recommended by WHO-India Joint Monitoring Mission to strengthen disease surveillance.(Directorate General of Health Services, India, 2015) Data science is “an interdisciplinary field involving processes, theories, concepts, tools, and technologies, that enable the review, analysis, and extraction of valuable knowledge and information from structured and unstructured (raw) data.(Data Science - MeSH - NCBI, 2023) Thus, data science allows researchers to explore and analyse routine health data and its associations with ecological datasets.(van der Aalst, 2016).
-Dengue is the fastest growing Vector Borne Disease (VBD) globally, and the highest burden is present in Low- and Middle- Income Countries (LMICs). South-East Asian Region (SEAR) contributes to 52% of the global dengue burden and is a significant public health problem in India. Dengue incidence in a population is determined by climatic, environmental, and socio-demographic conditions. These associations vary from place to place, and it is essential to understand them in the local context to develop Spatio-temporal models for evidence-informed public health decision-making.
-Exploratory Data Analysis (EDA) is a comparatively new area of statistics.(Bruce and Bruce, 2017) It is based on the principle that “It is important to understand what you CAN DO before you learn to measure how WELL you seem to have DONE it”(Tukey, 1977). EDA is complementary to confirmatory inferential statistics as it minimises violations of assumptions for model building. It also enables understanding of the data and guides appropriate questions, analysis, and models. Exploratory Spatial Data Analysis (ESDA) is an advancement to EDA for the detection of spatial patterns, hypotheses formulation based on spatial features, and assessing the appropriate spatial models. Similarly, for datasets including both space and time attributes, Exploratory Spatio-Temporal or Space-Time Data Analysis (ESTDA) has been recently introduced and is an active research domain in the field of Geographic Information Science (GIS). (De Smith et al., 2018) The current approach is preferred compared to other methods for time series classification, such as federated distillation learning system (EFDLS)(Xing et al., 2022a), robust temporal feature network (RTFN)(Xiao et al., 2021), and strategies for hybridisation of supervised learning, unsupervised learning, and Self distillation(Xing et al., 2022b). The mathematical foundations for the approach used are underpinned by the fact that dengue counts in routine data have Poison distribution and have been explored to subsequently develop spatiotemporal regression models and time series forecasting for a continuous outcome/ dependent variable. Further, underreporting of mild and missed cases in LMICs and the lack of adequate geocoding accuracy for spatial point pattern analysis pose a limitation for classification algorithms.
-Increasing initiatives for improving RHIS data quality in LMICs have been undertaken in the past few decades; however, neglected tropical diseases such as dengue require additional efforts to understand the data structure, quality issues, and mechanisms by which evidence can be generated from the routinely collected data.
-India contributes to around 34% of the global burden of dengue.(Dengue and severe dengue, 2023) However, the association of dengue with risk factors in the country is poorly explored. Also, because of multiple climatic zones and varied ecology and socio-demography within the states in India, the exploration of such associations in local context is recommended.(Kakarla et al., 2019) Further, in the majority of studies carried out in the country on dengue and its risk factors using RHIS, the association of dengue has been explored for associations with either a single risk factor, or at a spatial granularity of national or state level or with isolated spatial or time series analysis. There is an unmet need for studies exploring dengue association with multiple climatic, environmental, and socio-demographic factors at higher resolution for understanding disease dynamics. There is an evident lack of studies to understand dengue epidemiology using satellite imagery datasets, its space-time associations with multiple risk factors, and the use of advancements in technology which can provide decision support to public health managers. There is also a dearth of open-source solutions to foster research using RHIS. Additionally, within the health sector, on the one hand, there are robust RHIS such as Nickshay for Tuberculosis, digitisation for Reproductive and Maternal Health, etc., on the other, routine data for Dengue occurrence still exists in excel sheets is entered manually, and poses challenges to its use in research. Therefore, the present study was thus undertaken as ESTDA in data science using dengue routine health data and open-source software to explore patterns and associations for dengue incidence and its climatic, environmental, and socio-demographic risk factors in Punjab, India.
+**Introduction**
+
+ Exploratory Data Analysis (EDA) is a comparatively new area of statistics.(Bruce and Bruce, 2017) It is based on the principle that “It is important to understand what you CAN DO before you learn to measure how WELL you seem to have DONE it”(Tukey, 1977). EDA is complementary to confirmatory inferential statistics as it minimises violations of assumptions for model building. It also enables understanding of the data and guides appropriate questions, analysis, and models. Exploratory Spatial Data Analysis (ESDA) is an advancement to EDA for the detection of spatial patterns, hypotheses formulation based on spatial features, and assessing the appropriate spatial models. Similarly, for datasets including both space and time attributes, Exploratory Spatio-Temporal or Space-Time Data Analysis (ESTDA) has been recently introduced and is an active research domain in the field of Geographic Information Science (GIS). (De Smith et al., 2018) The current approach is preferred compared to other methods for time series classification, such as federated distillation learning system (EFDLS)(Xing et al., 2022a), robust temporal feature network (RTFN)(Xiao et al., 2021), and strategies for hybridisation of supervised learning, unsupervised learning, and Self distillation(Xing et al., 2022b). The mathematical foundations for the approach used are underpinned by the fact that dengue counts in routine data have Poison distribution and have been explored to subsequently develop spatiotemporal regression models and time series forecasting for a continuous outcome/ dependent variable. Further, underreporting of mild and missed cases in LMICs and the lack of adequate geocoding accuracy for spatial point pattern analysis pose a limitation for classification algorithms.
+
+
+**Material and methods**
+
+The present study included secondary data analysis of routinely collected datasets by healthcare system and multiple open-source datasets. The study design was an ecological study in healthcare epidemiology using the data science approach.
+
+**Dengue epidemiology in the state**
+
+The state dengue incidence rates in 2015–19 were 47.8, 33.6, 52.0, 49.7, and 33.4 per 100,000, respectively. The mean (SD) age of the reported dengue cases was 34.3 (16.8) years. Most patients were males (63.9%) and in the age group of 25–39 years (32.0%). The fourth quarter, October, and week 41 to week 46 were dengue's peak periods. The Hurst coefficient of quarterly, monthly, and weekly time series was 0.5, 0.91, and 0.99, and the spectral entropy measure was 0.28, 0.53, and 0.72,
+
+**Discussion**
+
+Dengue occurrence in a population is influenced by ecological and socio-demographic factors (Farrar and Manson, 2014). Exploration of associations between disease occurrence and its eco-socio-demographic factors provides evidence for feature selection and development of early warning forecasting systems for strengthening disease surveillance, efficient resource allocation, and timely implementation of prevention and control measures. The present study is a first-of-kind study from the state
+
+**Conclusion**
+
+The present study provides evidence and a framework for the exploration of Spatio-temporal associations of dengue with ecological and socio-demographic variables in the local context. The study found a high dengue incidence in the state with seasonal patterns. At the sub-district level, changing epidemiology of dengue was observed, which strengthens the call for climate change policy implementation. A non-linear association of dengue with risk factors was seen at multiple lags and with
+
+**Availability of data and algorithms**
+
+All the analyses were carried out using open-domain data sources and reproducible codes, which can be shared with readers on reasonable requests. The data from NVBDCP, Punjab, and Sub-district level spatial files were obtained with restricted use, which can be shared only after additional permissions from the state directorate and Punjab Remote Sensing Authority.
+
 
 
 
