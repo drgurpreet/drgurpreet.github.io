@@ -6,7 +6,7 @@ event_url: https://totworkshop.info
 
 location: TERI GRAM
 address:
-  street: Faridabad-Gurgaon Road
+  street: "Faridabad-Gurgaon Road"
   city: Gurugram
   region: Gwal Pahari
   postcode: '122003'
@@ -34,9 +34,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links: <!--
-  - type: code
-    url: https://github.com -->
+links: 
   - type: slides
     url: https://totworkshop.info
 
@@ -50,3 +48,5 @@ slides: ""
 
 
 ---
+
+
