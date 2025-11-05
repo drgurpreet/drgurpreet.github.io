@@ -12,7 +12,7 @@ address:
   postcode: '122003'
   country: India
 
-summary: "Public health systems in low- and middle-income countries face growing challenges that demand data-driven solutions. This ToT workshop empowers educators and professionals to teach and scale the "Data Science for Public Health" course, bridging the gap between public health and data analytics. The workshop aims to develop a network of skilled trainers capable of delivering Module 1: Introduction to Public Health Data Science across institutions and regions."
+summary: "Public health systems in low- and middle-income countries face growing challenges that demand data-driven solutions. This ToT workshop empowers educators and professionals to teach and scale the Data Science for Public Health course, bridging the gap between public health and data analytics. The workshop aims to develop a network of skilled trainers capable of delivering Module 1: Introduction to Public Health Data Science across institutions and regions."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-11-07'
