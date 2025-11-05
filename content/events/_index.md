@@ -1,7 +1,7 @@
 ---
 title: Recent & Upcoming Workshops
 cms_exclude: true
-#url: talk
+#url: talks
 
 # View
 view: card
