@@ -17,7 +17,7 @@ summary: "Public health systems in low- and middle-income countries face growing
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-11-07'
 date_end: '2025-11-09'
-all_day: true
+all_day: false
 
 
 authors:
@@ -28,7 +28,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
