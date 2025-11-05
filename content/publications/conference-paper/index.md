@@ -6,7 +6,7 @@ title: "Development and Use of a Reproducible Framework for Spatiotemporal Clima
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - [Dr Biju Soman](https://www.researchgate.net/profile/Biju-Soman-3)
+  - Dr Biju Soman
 
 
 date: '2022-03-01'
