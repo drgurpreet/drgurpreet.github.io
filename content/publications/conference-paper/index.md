@@ -34,7 +34,7 @@ links:
     url: "https://www.researchgate.net/publication/359266984_Development_and_Use_of_a_Reproducible_Framework_for_Spatiotemporal_Climatic_Risk_Assessment_and_its_Association_with_Decadal_Trend_of_Dengue_in_India"
 
 image:
-  caption: "Correlation between Dengue and Climatic Factors"
+  # caption: "Correlation between Dengue and Climatic Factors"
   focal_point: ""
   preview_only: false
 ---
