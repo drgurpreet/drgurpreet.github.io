@@ -10,8 +10,8 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Conferences
-    url: /#talks
+  - name: Workshops
+    url: /#workshops
     weight: 12
   - name: News
     url: /#news
