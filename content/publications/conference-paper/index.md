@@ -1,77 +1,70 @@
 ---
-title: 'An example conference paper'
+title: "Development and Use of a Reproducible Framework for Spatiotemporal Climatic Risk Assessment and its Association with Decadal Trend of Dengue in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - [Dr Biju Soman](https://www.researchgate.net/profile/Biju-Soman-3)
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-03-01'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-01'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# publication_types: ['paper-conference']
+publication_types: ['article-journal']
+
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Indian Journal of Community Medicine
+publication_short: *IJCM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Introduction: The study aimed to develop a reproducible, open‑source, and scalable framework for extracting climate data from satellite imagery, understanding dengue’s decadal trend in India, and estimating the relationship between dengue occurrence and climatic factors. Materials and Methods: A framework was developed in the Open Source Software, and it was empirically tested using reported annual dengue occurrence data in India during 2010–2019. Census 2011 and population projections were used to calculate incidence rates. Zonal statistics were performed to extract climate parameters. Correlation coefficients were calculated to estimate the relationship of dengue with the annual average of daily mean and minimum temperature and rainy days. Results: Total 818,973 dengue cases were reported from India, with median annual incidence of 6.57 per lakh population; it was high in 2019 and 2017 (11.80 and 11.55 per lakh) and the Southern region (8.18 per lakh). The highest median annual dengue incidence was observed in Punjab (24.49 per lakh). Daily climatic data were extracted from 1164 coordinate locations across the country for the decadal period (4,249,734 observations). The annual average of daily temperature and rainy days positively correlated with dengue in India (r = 0.31 and 0.06, at P < 0.01 and 0.30, respectively). Conclusion: The study provides a reproducible algorithm for bulk climatic data extraction from research‑level satellite imagery. Infectious disease models can be used to understand disease epidemiology and strengthen disease surveillance in the country.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The study aimed to develop a reproducible, open‑source, and scalable framework for extracting climate data from satellite imagery, understanding dengue’s decadal trend in India, and estimating the relationship between dengue occurrence and climatic factors.
 
 tags:
-  - Large Language Models
+  - Climate Risk
+  - Dengue
+  - Public Health
+  - Remote Sensing
+  - Data Science
+  - Spatiotemporal
 
 # Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
 
 # Custom links
 links:
   - type: pdf
-    url: ""
-  - type: code
+    url: https://www.researchgate.net/publication/359266984_Development_and_Use_of_a_Reproducible_Framework_for_Spatiotemporal_Climatic_Risk_Assessment_and_its_Association_with_Decadal_Trend_of_Dengue_in_India
+ <!-- - type: code
     url: https://github.com/HugoBlox/hugo-blox-builder
   - type: dataset
     url: https://github.com/HugoBlox/hugo-blox-builder
   - type: slides
-    url: https://www.slideshare.net/
+    url: https://www.slideshare.net/ 
+    -->
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: https://www.researchgate.net/publication/359266984_Development_and_Use_of_a_Reproducible_Framework_for_Spatiotemporal_Climatic_Risk_Assessment_and_its_Association_with_Decadal_Trend_of_Dengue_in_India
+ <!--
   - type: video
     url: https://youtube.com
+    -->
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "[**Correlation between Dengue and Climatic Factors**]([https://unsplash.com/photos/pLCdAaMFLTE](https://www.researchgate.net/publication/359266984_Development_and_Use_of_a_Reproducible_Framework_for_Spatiotemporal_Climatic_Risk_Assessment_and_its_Association_with_Decadal_Trend_of_Dengue_in_India))"
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -81,10 +74,30 @@ projects:
 slides: ""
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# Section Snippets
 
+## Introduction
+
+Spatiotemporal and machine learning approaches areincreasingly used to understand the epidemiology ofinfectious diseases. The development of infectious disease models in low-andmiddle-income countries is faced with challengesof obtaining high- resolution data on climatic riskvariation from on-ground meteorological stations. Globaland National intersectoral initiatives provide satelliteimagery-based Analysis Ready Datasets (ARDs) andglobal climatic models through multiple sources. The study aimed to develop a reproducible, open‑source, and scalable framework for extracting climate data from satellite imagery, understanding dengue’s decadal trend in India, and estimating the relationship between dengue occurrence and climatic factors. 
+
+## Materials and Methods: 
+
+The study was carried out in two phases. The first phaseincluded exploring and developing a reproducible frameworkfor research-level satellite imagery bulk preprocessing. Thesecond phase included ecological analysis of publicly availabledengue occurrence data and climatic variables obtained usingthe developed framework. A framework was developed in the Open Source Software, and it was empirically tested using reported annual dengue occurrence data in India during 2010–2019. Census 2011 and population projections were used to calculate incidence rates. Zonal statistics were performed to extract climate parameters. Correlation coefficients were calculated to estimate the relationship of dengue with the annual average of daily mean and minimum temperature and rainy days. 
+
+## Results: 
+
+Total 818,973 dengue cases were reported from India, with median annual incidence of 6.57 per lakh population; it was high in 2019 and 2017 (11.80 and 11.55 per lakh) and the Southern region (8.18 per lakh). The highest median annual dengue incidence was observed in Punjab (24.49 per lakh). Daily climatic data were extracted from 1164 coordinate locations across the country for the decadal period (4,249,734 observations). The annual average of daily temperature and rainy days positively correlated with dengue in India (r = 0.31 and 0.06, at P < 0.01 and 0.30, respectively). 
+
+## Conclusion: 
+
+The study provides a reproducible algorithm for bulk climatic data extraction from research‑level satellite imagery. Infectious disease models can be used to understand disease epidemiology and strengthen disease surveillance in the country.
+
+
+<!--
 > [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+> Create your slides in Markdown - click the *Slides* button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+-->
+
