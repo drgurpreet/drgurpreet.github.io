@@ -1,6 +1,6 @@
 ---
 title: Courses
-summary: My courses
+summary: "The hands-on workshops conducted"
 type: landing
 
 cascade:
@@ -14,9 +14,9 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Workshops
       filters:
-        tag: Course
+        tag: workshop
         kinds:
           - section
     design:
