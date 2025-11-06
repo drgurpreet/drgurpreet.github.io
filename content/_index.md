@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a Physician Scientist working as Associate Professor in the Department of Community Medicine at Armed Forces Medical College, Pune, India.
+        I'm a Physician Scientist working as an Associate Professor in the Department of Community Medicine at Armed Forces Medical College, Pune, India.
 
         I apply a range of data science, epidemiology and statistical methods to comprehensively investigate the role of science and technology in the healthcare.
 
