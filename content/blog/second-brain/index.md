@@ -1,14 +1,17 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: "Large Language Models in Healthcare"
+summary: "Pre summit event: In the run up to India AI Impact Summit 26"
+date: 2025-11-06
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - LLM
+  - Coding
+  - Open source
+  - India AI Summit 2026
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ""
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
