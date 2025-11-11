@@ -3,7 +3,7 @@ title: "Development and Use of a Reproducible Framework for Spatiotemporal Clima
 
 authors:
   - admin
-  - biju-soman
+  - Dr Biju-Soman
 
 date: "2022-03-01"
 publishDate: "2022-03-01"
